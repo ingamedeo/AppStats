@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Stats</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="show_app_stats">SHOW APP STATS</string>
+</resources>
