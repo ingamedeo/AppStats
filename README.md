@@ -14,6 +14,8 @@ Sample Android app that shows combined usage of:
 
 #### Resources
 
+[Reactive](https://cycle.js.org/streams.html)
+
 [Moshi code gen](https://medium.com/@sweers/exploring-moshis-kotlin-code-gen-dec09d72de5e)
 
 [LiveData](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0)
