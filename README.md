@@ -9,7 +9,7 @@ Sample Android app that shows combined usage of:
 - Kotlin (Android)
 - Retrofit 2
 - Moshi (JSON translation)
-- Coroutines (to execute Retrofit in the background)
+- Coroutines (Retrofit network requests in the background)
 - Architecture Components (LiveData - live UI updates from coroutines)
 
 #### Resources
