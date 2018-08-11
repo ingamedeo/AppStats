@@ -1,6 +1,6 @@
 # AppStats
 
-<img src="https://amedeobaragiola.me/static/appstats.png" width="28%" align="left">
+<img src="https://amedeobaragiola.me/static/appstats.png" width="32%" align="left">
 
 ### Kotlin + Retrofit 2 + Moshi + Coroutines + Architecture Components ###
 
@@ -25,6 +25,8 @@ Sample Android app that shows combined usage of:
 [Actors](https://blog.octo.com/en/a-responsive-and-clean-android-app-with-kotlin-actors/)
 
 [Coroutines](https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md)
+
+[Coroutines Talk](https://www.youtube.com/watch?v=_hfBv0a09Jc)
 
 <img src="https://amedeobaragiola.me/static/kotlin.png" width="25%" height="25%" align="left">
 <img src="https://amedeobaragiola.me/static/moshi.png" width="25%" height="25%" align="left">
