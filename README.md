@@ -1,5 +1,7 @@
 # AppStats
 
+<img src="https://amedeobaragiola.me/static/appstats.png" width="28%" align="left">
+
 ### Kotlin + Retrofit 2 + Moshi + Coroutines + Architecture Components ###
 
 Sample Android app that shows combined usage of:
